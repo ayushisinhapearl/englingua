@@ -1,6 +1,6 @@
 import React from "react";
-import blogData from "../data/blogData"; 
 import BlogSection from "../components/BlogSection"; 
+import { blogData } from "../data/blogData";
 
 
 const BlogGrid = () => {
